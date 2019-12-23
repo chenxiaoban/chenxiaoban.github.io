@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      认知天性
+title:      20191222认知天性
 subtitle:   终身学习，终身成长
 date:       2019-12-22
 author:     BY
